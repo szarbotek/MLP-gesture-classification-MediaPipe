@@ -94,13 +94,13 @@ The number of samples and selected gesture classes should be configured in the p
 ```python
 ...
 # ------------------------------------------------------------------
-# Specify
+# Project configuration
 # ------------------------------------------------------------------
-PROJECT_PATH_TRAINING_DATASET = "path/to/traing/dataset"
-PROJECT_PATH_MEDIAPIPE_MODEL = "path/to/MedaPipe/recognirtion/hand/landmark"
+PROJECT_PATH_TRAINING_DATASET = "path/to/training/dataset"
+PROJECT_PATH_MEDIAPIPE_MODEL = "path/to/MediaPipe/hand/landmarker/model"
 SAMPLES_LIMIT = 1000
 # ------------------------------------------------------------------
-# Specify
+# Project configuration
 # ------------------------------------------------------------------
 ...
 ```
