@@ -8,6 +8,8 @@ The model recognizes hand gestures from 63-dimensional feature vectors generated
 21 landmarks × 3 coordinates = 63 features
 ```
 
+![MediaPipe hand crops](https://mediapipe.dev/images/mobile/hand_crops.png)
+
 Hand landmarks are extracted with **MediaPipe Hand Landmarker**.
 
 ## Features
